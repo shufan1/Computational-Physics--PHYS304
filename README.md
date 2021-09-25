@@ -4,6 +4,7 @@ Class projects for Computational Physics
 Topics:
 - Implement multiple integration algorithms
 - Implement multiple derivative algorithms
+- Interpolation
 - Find solutions for systems of equations
 - Solving Differential Equations
 - Bifurcation
